@@ -1,7 +1,7 @@
 package proj_test
 
 import (
-	"github.com/pebbe/go-proj-4/proj/v5"
+	"github.com/jackielii/go-proj-4/proj/v5"
 
 	"fmt"
 	"testing"
